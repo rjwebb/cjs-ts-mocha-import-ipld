@@ -1,0 +1,25 @@
+{
+  "name": "cjs-ts-mocha-import-ipld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "ts-mocha test/index.spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.23.9",
+    "@babel/core": "^7.24.0",
+    "@babel/preset-env": "^7.24.0",
+    "@babel/register": "^7.23.7",
+    "@types/mocha": "^10.0.6",
+    "chai": "^5.1.0",
+    "mocha": "^6.2.2",
+    "ts-mocha": "^6.0.0",
+    "typescript": "^5.4.2"
+  },
+  "dependencies": {
+    "@ipld/dag-json": "^10.2.0"
+  }
+}
