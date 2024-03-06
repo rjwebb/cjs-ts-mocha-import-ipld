@@ -1,0 +1,15 @@
+docker-compose.yaml
+stellar
+node_modules/
+**/build
+**/dist
+**/.DS_Store
+*.env
+*.log
+.idea
+.vscode
+*.postgres
+*.rabbitmq
+redis-data
+**/.nyc_output
+**/dependency-graph.svg
