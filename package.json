@@ -21,6 +21,7 @@
     "typescript": "^5.4.2"
   },
   "dependencies": {
+    "@canvas-js/chain-ethereum": "^0.8.26",
     "@ipld/dag-json": "^10.2.0"
   }
 }
