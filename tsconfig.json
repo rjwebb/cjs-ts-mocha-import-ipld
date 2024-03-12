@@ -10,7 +10,8 @@
     "downlevelIteration": true,
     "traceResolution": false,
     "baseUrl": ".",
-    "rootDir": "."
+    "rootDir": ".",
+    "outDir": "build"
   },
   "include": ["**/src", "**/test"],
   "exclude": ["**/node_modules", "**/build"],
