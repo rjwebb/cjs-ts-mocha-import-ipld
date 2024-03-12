@@ -2,9 +2,9 @@
   "name": "cjs-ts-mocha-import-ipld",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.js",
+  "main": "build/index.js",
   "scripts": {
-    "build-run": "tsc && node src/index.js"
+    "build-run": "tsc && node build/index.js"
   },
   "type": "commonjs",
   "author": "",
